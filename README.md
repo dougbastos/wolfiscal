@@ -52,14 +52,45 @@ A proposta inclui:
 
 ---
 
-## 🚀 Como Usar
+## 🔍 Detalhamento das Funcionalidades
 
-1. Baixe o arquivo `Organizador-IR.xlsx` do repositório
-2. Abra no Microsoft Excel (recomendado: versão 2016 ou superior)
-3. Preencha seus dados conforme as instruções em cada aba
-4. Use os menus e links rápidos para navegação
-5. Valide os dados com as regras já aplicadas na planilha
-6. Utilize o campo de notas para deixar registros importantes
+Esta planilha Excel foi desenvolvida para organizar e controlar informações essenciais para a declaração do Imposto de Renda, com foco na facilidade de uso e validações automáticas para evitar erros.
+
+### Funcionalidades Principais:
+
+- **Menu de Navegação**  
+  Um painel inicial com botões que permitem acessar rapidamente as principais abas da planilha, facilitando a navegação sem necessidade de procurar manualmente.
+
+- **Tela Titular**  
+  Aqui você cadastra os dados pessoais do titular da declaração, como nome, CPF, endereço e demais informações básicas que serão utilizadas para gerar relatórios.
+
+- **Tela Informes**  
+  Nesta aba, insira os informes de rendimentos, como salários, aluguéis recebidos, investimentos, etc. A planilha valida automaticamente os campos obrigatórios para garantir a integridade dos dados.
+
+- **Tela Notas**  
+  Utilize esta seção para registrar notas fiscais, recibos e documentos comprobatórios que auxiliam na comprovação das despesas e rendimentos.
+
+- **Validações Automáticas**  
+  A planilha possui regras embutidas que alertam caso alguma informação esteja incorreta ou incompleta, garantindo a qualidade dos dados para a declaração.
+
+- **Links Rápidos**  
+  Botões e atalhos para documentos e guias úteis, otimizando seu tempo e facilitando o acesso a informações complementares.
+
+### Como usar:
+
+1. **Preencha os dados na Tela Titular** com suas informações pessoais.  
+2. **Insira os rendimentos e despesas na Tela Informes**, certificando-se de que todos os campos obrigatórios estejam preenchidos.  
+3. **Registre documentos na Tela Notas** para manter um controle organizado das comprovações.  
+4. **Use o Menu de Navegação** para alternar entre as abas e verificar suas informações.  
+5. **Confira as validações** que aparecerão para corrigir qualquer inconsistência antes de finalizar a organização.
+
+---
+
+## 📁 Download da Planilha
+
+Você pode baixar a ferramenta diretamente aqui:
+
+➡️ [Clique para baixar o Organizador-IR.xlsx](./Organizador-IR.xlsx)
 
 ---
 
